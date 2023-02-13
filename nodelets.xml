@@ -1,0 +1,8 @@
+<library path="lib/libsensor_to_body_transform">
+  <class name="pointcloud_preprocessor/SensortoBodyTransform"
+     type="pointcloud_preprocessor::SensortoBodyTransform"
+     base_class_type="nodelet::Nodelet">
+    <description>
+    </description>
+  </class>
+</library>
